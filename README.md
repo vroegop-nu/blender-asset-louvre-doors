@@ -2,6 +2,8 @@
 
 ## Louvre Doors
 
+![example](renders/02.png)
+
 This node group can be used to generate louvre doors. This node group makes use of the [Window node 
 group](https://github.com/vroegop-nu/blender-asset-window) to generate the outer frames of the 
 doors. The doors can have configurable hinges and the rotation of each door can be set. The door 
